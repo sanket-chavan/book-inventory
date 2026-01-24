@@ -1,0 +1,9 @@
+.table-container {
+    max-height: 400px;
+    overflow-y: scroll;
+    }
+    
+    
+    .details {
+    padding: 20px;
+    }

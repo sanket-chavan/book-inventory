@@ -1,0 +1,21 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "publisher": "Prentice Hall",
+      "publishedDate": "2008",
+      "email": "author@mail.com",
+      "age": 45,
+      "overview": "A handbook of agile software craftsmanship"
+    },
+    {
+      "title": "sa",
+      "author": "Clean Code333",
+      "email": "sanketc1297@gmail.com",
+      "age": "21",
+      "id": "c3db"
+    }
+  ]
+}
