@@ -28,3 +28,6 @@ It uses JSON Server as a mock REST API.
 - Add Book
 - Edit Book
 - Book Details
+
+## Live Demo
+https://melodious-froyo-92299d.netlify.app/
