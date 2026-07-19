@@ -31,7 +31,8 @@ import { getBookById } from "../api/bookService";
 function BookDetails() {
   const { id } = useParams();
   const [book, setBook] = useState(null);
-
+  const ooob = 10;
+  
   useEffect(() => {
     getBookById(id).then(res => setBook(res.data));
   }, [id]);
